@@ -2,4 +2,4 @@
 Simple project with CRUD and routing system and not more. Also, in main architecture lying facebook build (create-react-app). 
 
 * Starting project in root directory with script in powershel : 
-  *npm start. 
+  * npm start. 
