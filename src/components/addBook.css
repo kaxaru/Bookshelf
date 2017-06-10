@@ -1,0 +1,15 @@
+.addBook {
+    width: 320px;
+    margin: 30px;
+}
+
+.addBook span {
+    display: block;
+    float: left;
+    width: 5em;
+    padding-right: 2em;
+}
+
+button {
+    margin-top: 2em;
+}

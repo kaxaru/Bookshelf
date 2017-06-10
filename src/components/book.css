@@ -1,0 +1,12 @@
+.Book {
+    margin-top: 3em;
+}
+
+.Book div {
+    text-align: center;
+}
+
+.Book img {
+    display: block;
+    margin: 0 auto;
+}

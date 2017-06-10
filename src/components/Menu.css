@@ -1,0 +1,16 @@
+.menu {
+    height: 200px;
+}
+
+.menu div {
+    line-height: 100%;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu li {
+    text-align: left;
+    border-bottom: 1px red solid;
+}
